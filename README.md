@@ -14,9 +14,6 @@ A full-stack fashion e-commerce platform allowing users to browse and shop a var
 - [Deployment](#deployment)
 - [API Endpoints](#api-endpoints)
 
-## Author
-[@TanishaJauhari](https://github.com/Tanisboxed)
-
 ## Technologies
 **Client:**
 - React.js
@@ -66,9 +63,6 @@ Feel free to open **issues** and submit **pull requests**.
 ## Inspiration
 - Project inspired by fashion e-commerce platforms like **ATBW**.
 
-## Feedback
-If you have any feedback, please reach out to me at tanishajauhari2202@gmail.com
-
 ## Run Locally (Setup)
 
 1. **Clone the project**
@@ -117,9 +111,4 @@ You can access the live backend API here: [Backend - Render](https://fabriqueapi
   ```
   
 Feel free to explore the available API endpoints!
-
-## Closing Remarks
-Thank you for checking out Fabrique! This project is a continuous work in progress, and I am excited to keep improving and adding new features to 
-create a seamless fashion e-commerce experience. Whether you're a fellow developer, a designer, or a user, your feedback and contributions are 
-highly appreciated. Feel free to explore, test, and let me know how I can make the project better!
 
